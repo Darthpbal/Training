@@ -9,6 +9,7 @@ This is not necessarily meant to be a comprehensive education of the principles 
 
 #Hardware electronics references
 Since working with microcontrollers is a mairrage between hardware electronics and software electronics, the following links should give you a decent understanding of electricity as it applies to most microcontroller circuits. Yes there is a lot of detail, but not all of it will necessarily be relevant all of the time. For example, most of the time I'm not thinking about logic levels at all, but if I'm trying to make a 5V board talk to a 3V board, then I'm paying close attention to how I wire up things with respect to logic levels. I've organized these links by complexity, so if you're completely brand new to electronics, you should start at the top link.
+
 [What is electricity](https://goo.gl/Ci8llI)
 [What is a circuit](https://goo.gl/Vy6rWI)
 [Voltage, Current, Resistance, And Ohms law](https://goo.gl/sQPJ09)
