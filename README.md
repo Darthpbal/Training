@@ -32,8 +32,8 @@ Since working with microcontrollers is a mairrage between hardware electronics a
 
 
 #Useful links
-- [Tutorial video playlist:](https://www.youtube.com/playlist?list=PL25XRuJYibU9oZYxqpnBtaXeQszfYavCX "Be kind, rewind...")
-- [arduino reference:](https://www.arduino.cc/en/Reference/HomePage)
-- [Arduino tutorials:](https://www.arduino.cc/en/Tutorial/HomePage)
-- [C++ reference:](http://www.cplusplus.com/)
+- [Tutorial video playlist](https://www.youtube.com/playlist?list=PL25XRuJYibU9oZYxqpnBtaXeQszfYavCX "Be kind, rewind...")
+- [arduino reference](https://www.arduino.cc/en/Reference/HomePage)
+- [Arduino tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
+- [C++ reference](http://www.cplusplus.com/)
 - [**Arduino simulator**](https://circuits.io/ "in case you don't have an arduino or want to confirm how it would work on hardware")
