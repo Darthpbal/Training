@@ -1,9 +1,10 @@
 #Phoenix College Nasa ASCEND training github repository
 
+To make a copy of this repository for yourself, click the clone or download button in the top right corner.
 
 The purpose of this repository is to provide educational material about the C++ programming language as well as how that applies to the Arduino family of microcontrollers.
 
-In github, you will be able to see me edit this directory and the files. If you look above this area, you'll se the files that belong in my repository with some sentences on the right hand side. These are all edits that I've made to these files and folders. This is part of the beauty of git and Github. These allow you to finely control ad track edits to your coding projects. So if I change something, you'll know why!
+In github, you will be able to see me edit this directory and the files. If you look above this area, you'll see the files that belong in my repository with some sentences on the right hand side. These are all edits that I've made to these files and folders. This is part of the beauty of git and Github. These allow you to finely control ad track edits to your coding projects. So if I change something, you'll know why!
 
 This is not necessarily meant to be a comprehensive education of the principles of programming but rather a crash course for practical applications of the microcontroller for those that may be newer to electronics and programming.
 
