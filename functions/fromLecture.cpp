@@ -26,7 +26,7 @@ void setup() {
   someFuncDeclaration(a, b);
   Serial.println(a);//unchanged
   Serial.println(b);//woah! someFuncDeclaration modified this variable even on the outside!
-  Serial.println();
+  Serial.println();//these empty ones are used for making space for the next line
   Serial.println();
 
 
@@ -62,6 +62,8 @@ void someFuncDeclaration(int passByVal, int& passByRef){//function DEFINITION, b
   Serial.println(passByVal);
   Serial.print("passByRef = ");
   Serial.println(passByRef);
+  Serial.print("check passByVal and passByRef after this function!");
+  Serial.println();
 }
 
 

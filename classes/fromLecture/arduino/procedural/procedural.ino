@@ -13,6 +13,12 @@ void loop()
   delay(3000);
 }
 
+
+
+
+
+
+
 void dot()
 {
   digitalWrite(pin, HIGH);
@@ -28,3 +34,4 @@ void dash()
   digitalWrite(pin, LOW);
   delay(250);
 }
+

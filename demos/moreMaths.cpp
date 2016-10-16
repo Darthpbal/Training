@@ -75,6 +75,10 @@ const double CM_PER_INCH = 2.54;
 const double LB_PER_KG = 2.20462262;
 int CalcLucky(int pDate, double pHeight, int pMonth, double pWeight, int pYear)
 {
+    /*
+    static_cast<type>(input)
+    this is used for proper conversion from one data type to another.
+    */
     int term1 = 100 * pMonth * pMonth;
     int term2 = static_cast<int>(10 * pow(pDate,3));
     int term3 = (term1 + term2) / pYear;
