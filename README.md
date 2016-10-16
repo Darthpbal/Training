@@ -43,3 +43,10 @@ This is not necessarily meant to be a comprehensive education of the principles 
 - [C++ reference](http://www.cplusplus.com/)
 - [Arduino simulator](https://circuits.io/ "in case you don't have an arduino or want to confirm how it would work on hardware")
 - [ASCII chart](https://www.arduino.cc/en/Reference/ASCIIchart)
+
+
+
+
+>todo:
+>add logomagic and sd library based sd card logging
+>add example for an error flag being used for a system startup.
